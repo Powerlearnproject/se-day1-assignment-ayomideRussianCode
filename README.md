@@ -13,9 +13,13 @@ Software engineering is the systematic approach to designing, developing, testin
 Importance in the Technology Industry:
 
 Quality Assurance: Ensures software is reliable, secure, and performs well under different conditions.
+
 Efficiency and Productivity: Streamlines development processes, reducing time and cost.
+
 Scalability and Maintainability: Enables software to adapt to changing requirements and grow with user needs.
+
 Collaboration and Teamwork: Promotes better communication and collaboration among multidisciplinary teams.
+
 Innovation and Competitiveness: Drives innovation, helping companies stay competitive by delivering high-quality products quickly.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
